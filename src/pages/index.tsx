@@ -40,7 +40,7 @@ const Home: NextPage = () => {
               </Link>
             </Button>
             <Button size="sm" bg="gray.600" _hover={{ bg: 'gray.500' }}>
-              <Link isExternal href="#">
+              <Link isExternal href="https://linkedin.com/in/joãomaiaa">
                 <Img src="/linkedin.svg" />
               </Link>
             </Button>
